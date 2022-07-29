@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1652511123 source:c:\users\user\desktop\coding files\c++ language files\banking system project using cpp\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<vector>
+	<map>
+
